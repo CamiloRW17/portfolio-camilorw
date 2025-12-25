@@ -47,7 +47,14 @@ header {
    background: linear-gradient(#28542b, black);
 }
 
-@media (min-width: 600px){
+
+nav {
+  font-family: 'Oxanium';
+  color: white;
+}
+
+
+@media (min-width: 768px){
  nav {
   font-family: 'Oxanium';
   color: white;
